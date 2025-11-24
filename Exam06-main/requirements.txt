@@ -1,5 +1,0 @@
-Django==5.2.8
-python-dotenv==1.2.1
-django-filter
-djangorestframework==3.16.1
-
